@@ -1,3 +1,3 @@
-# watsonxchallenge
-watsonxchallenge
-watsonxchallenge
+# Watsonx Challenge
+- Watsonx.ai
+- watsonxch Assistant
